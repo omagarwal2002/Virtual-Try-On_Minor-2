@@ -33,6 +33,7 @@ This if how our GUI looks like.
 
 # Our Outputs
 These are the outputs we got.
+
 ![image](https://user-images.githubusercontent.com/75072839/235740742-8dca7b35-8a28-4fa5-86d9-ad461a06babc.png)
 
 ![image](https://user-images.githubusercontent.com/75072839/235740790-8dab432a-8d50-4276-90ac-abbdda08960f.png)
